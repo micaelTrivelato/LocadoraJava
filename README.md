@@ -63,12 +63,11 @@ Permissões para usuário do tipo “Administrador”
 · Visualizar Clientes que atrasaram a entrega.
 	Para isso clique em "Cadastro de Clientes" e depois em "Já atrasaram", mostrará uma listagem de clientes que já atrasaram a entrega;
 
-#	Configuração do banco de dados:
-	
-	<b>A porta de entrada do banco de dados deve ser 3306.</b>
-	<b>O usuário para conexão deve ser "root".</b>
-	<b>A senha para conexão deve ser 1234.</b>
-	
+# Configuração do banco de dados:
+	A porta de entrada do banco de dados deve ser 3306.
+	O usuário para conexão deve ser "root".
+	A senha para conexão deve ser 1234.
+
 ## Desenvolvido por:
 <b>Micael Trivelato</b>
 
